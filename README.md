@@ -137,9 +137,6 @@ VENUS
 
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/venus.png" width="300" height="300">
 
-EARTH
-
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/planets/earth.png" width="300" height="300">
 
 MARS
 
@@ -162,9 +159,6 @@ URANUS
 
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/uranus.png" width="300" height="300">
 
-PLUTO
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/pluto.png" width="300" height="300">
 
 -----------
 
@@ -203,19 +197,12 @@ Harvest Moon: October
 
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonharvest.png" width="300" height="300">
 
-Beaver Moon: November
-
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonbeaver.png" width="300" height="300">
 
 Cold Moon : December
 
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/mooncold.png" width="300" height="300">
 
 
-
-## Contents:
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/horoscopewatch.jpeg" width="300" height="150">
 
 Contents | Description
 -------- | ----------
