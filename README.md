@@ -44,62 +44,36 @@ Features:
 
 ## MOON PHASES
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/moon%20phase.gif" width="300" height="300">
-
 
 New moon
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/newmoon.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/newmoon.png" width="300" height="300">
 
 Waxing Crescent Moon
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/rightcrescent.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/leftcrescent.png" width="300" height="300">
 
-Waxing Half Moon
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/halfmoonright.png" width="300" height="300">
 
 Waxing Gibbous Moon
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/gibright.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/halfmoonright.png" width="300" height="300">
 
 Full Moon
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/fulloon.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/fulloon.png" width="300" height="300">
 
 Waning Gibbous Moon
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/gibleft.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/gibleft.png" width="300" height="300">
 
 Waxing half Moon
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/halfmoonleft.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/halfmoonleft.png" width="300" height="300">
 
-Waxing Crescent Moon
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/rightcrescent.png" width="300" height="300">
-
-
-New moon
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/newmoon.png" width="300" height="300">
 
 
 -----------
 
-## Mode Switches
-
-Day and Night
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/day.gif" width="300" height="300">
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/night.gif" width="300" height="300">
-
-Holiday Vs Normal
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/holiday.gif" width="300" height="300">
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/switch.gif" width="300" height="300">
 
 Ambient Mode
 
@@ -111,51 +85,40 @@ Ambient Mode
 
 Aquarius
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/aquarius.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/aquarius.png" width="300" height="300">
 
 Aries
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/aries.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/aries.png" width="300" height="300">
 
 Cancer
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/cancer.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/cancer.png" width="300" height="300">
 
 Capricorn
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/capricorn.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/capricorn.png" width="300" height="300">
 
 Gemini
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/gemini.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/gemini.png" width="300" height="300">
 
 Leo
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/leo.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/leo.png" width="300" height="300">
 
 Libra
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/libra.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/libra.png" width="300" height="300">
 
 Pisces
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/pisces.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/pisces.png" width="300" height="300">
 
 Sagitarius
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/sagitarius.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/sagitarius.png" width="300" height="300">
 
-Scorpio
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/scorpio.png" width="300" height="300">
-
-Taurus
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/taurus.png" width="300" height="300">
-
-Virgo
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/virgo.png" width="300" height="300">
 
 
 -----------------------
