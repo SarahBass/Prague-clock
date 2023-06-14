@@ -128,16 +128,16 @@ Sagitarius
 
 SUN
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/planets/sun.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/sun.png" width="300" height="300">
 
 
 MERCURY
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/mercury.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/mercury.png" width="300" height="300">
 
 VENUS
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/venus.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/venus.png" width="300" height="300">
 
 EARTH
 
@@ -145,19 +145,19 @@ EARTH
 
 MARS
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/mars.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/mars.png" width="300" height="300">
 
 METEOR
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/planets/shower.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/shower.png" width="300" height="300">
 
 JUPITER
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/jupiter.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/jupiter.png" width="300" height="300">
 
 SATURN
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/saturn.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/saturn.png" width="300" height="300">
 
 NEPTUNE
 
@@ -165,7 +165,7 @@ NEPTUNE
 
 URANUS
 
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/uranus.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/uranus.png" width="300" height="300">
 
 PLUTO
 
