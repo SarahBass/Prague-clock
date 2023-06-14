@@ -1,10 +1,8 @@
 # Prague-clock
 Android clock based on Famous Prague Clock 
 
-# HoroscopeWatchAndroid
-A OS-Watch Face with Horoscope, Moon Phase, and Star Data
 
-In Progress of being Published. Needs update on Moonphase calculator.
+In Progress of being Published. Needs update on Moonphase calculator. Wear-OS
 
 ## TicWatch E-3 WEAR OS
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162329.png" width="300" height="300">
@@ -159,9 +157,6 @@ SATURN
 
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/saturn.png" width="300" height="300">
 
-NEPTUNE
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/neptune.png" width="300" height="300">
 
 URANUS
 
@@ -173,92 +168,40 @@ PLUTO
 
 -----------
 
-## HOROSCOPES
-
-Aquarius
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/aquarius.png" width="300" height="300">
-
-Aries
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/aries.png" width="300" height="300">
-
-Cancer
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/cancer.png" width="300" height="300">
-
-Capricorn
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/capricorn.png" width="300" height="300">
-
-Gemini
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/gemini.png" width="300" height="300">
-
-Leo
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/leo.png" width="300" height="300">
-
-Libra
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/libra.png" width="300" height="300">
-
-Pisces
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/pisces.png" width="300" height="300">
-
-Sagitarius
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/sagitarius.png" width="300" height="300">
-
-Scorpio
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/scorpio.png" width="300" height="300">
-
-Taurus
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/taurus.png" width="300" height="300">
-
-Virgo
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/virgo.png" width="300" height="300">
-
------------
-
 ## MOON Almanac
 
 
 Wolf Moon : January
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonwolf.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonwolf.png" width="300" height="300">
 
 Snow Moon : February
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonsnow.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonsnow.png" width="300" height="300">
 
 Worm Moon : March
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonworm.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonworm.png" width="300" height="300">
 
 Pink Moon : April & May
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonpink.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonflower.png" width="300" height="300">
 
 Strawberry Moon: June
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonstrawberry.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonpink.png" width="300" height="300">
 
 Animal Moon (Sturgeon and Buck) : July & August
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonanimal.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonanimal.png" width="300" height="300">
 
 Corn Moon: September
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/mooncorn.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/mooncorn.png" width="300" height="300">
 
 Harvest Moon: October
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/moonharvest.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/moonharvest.png" width="300" height="300">
 
 Beaver Moon: November
 
@@ -266,7 +209,7 @@ Beaver Moon: November
 
 Cold Moon : December
 
-<img src="https://github.com/SarahBass/MoonPhase-Astronomy-Astrology-Functions/blob/main/drawables/moonAlmanac/mooncold.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/mooncold.png" width="300" height="300">
 
 
 
