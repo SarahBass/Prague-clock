@@ -36,7 +36,7 @@ Features:
 
 > Animated Sprite Characters
 
-> Amazing Astrology Watch Ambient Mode
+
 
 -----------
 
@@ -68,14 +68,6 @@ Waxing half Moon
 
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/halfmoonleft.png" width="300" height="300">
 
-
-
------------
-
-
-Ambient Mode
-
-<img src="https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/GITHUB_PNG/githubsample.png" width="300" height="300">
 
 -----------------------
 
