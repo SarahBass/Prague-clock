@@ -5,13 +5,13 @@ Android clock based on Famous Prague Clock
 In Progress of being Published. Needs update on Moonphase calculator. Wear-OS
 
 ## TicWatch E-3 WEAR OS
-<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162329.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162329.png" width="200" height="200">
 
-<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162344.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162344.png" width="200" height="200">
 
-<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162403.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162403.png" width="200" height="200">
 
-<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162415.png" width="300" height="300">
+<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162415.png" width="200" height="200">
 
 ----------
 Features:
