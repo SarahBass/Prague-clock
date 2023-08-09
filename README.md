@@ -1,8 +1,10 @@
 # Prague-clock
 Android clock based on Famous Prague Clock 
 
+![Untitled 128](https://github.com/SarahBass/Prague-clock/assets/69780815/1f8dfccd-67d9-491f-bb57-a0b674692943)
 
-In Progress of being Published. Needs update on Moonphase calculator. Wear-OS
+
+In Progress of being Published. Wear-OS
 
 ## TicWatch E-3 WEAR OS
 <img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162329.png" width="200" height="200">
